@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Amchuz/Amchuz/blob/master/Amchuz.gif">
+  <img src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.gif">
 </p>
   
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
