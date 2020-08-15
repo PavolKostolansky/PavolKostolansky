@@ -4,12 +4,11 @@
   
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
   
-:heart: Programming | :black_heart: K-pop | :blue_heart: Anime
+:heart: Embedded programming | :black_heart: Microcontrollers | :blue_heart: Operating systems
   
 
 
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/PavolKostolansky) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/PavolKostolansky/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/pavol-kostolansky-0204a214a/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](pavol.kostolansky@gmail.com)
-|---|---|---|---|---|---|
 
 ----
 
