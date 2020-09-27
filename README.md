@@ -1,17 +1,30 @@
-### 👋 Welcome !
-
-<p align="center">
+<p align="left">
   <img src="https://thumbs.gfycat.com/RemoteScalyGadwall-size_restricted.gif">
 </p>
 
-### 👋 Contact me on socials !
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/PavolKostolansky) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/PavolKostolansky/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/pavol-kostolansky-0204a214a/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](pavol.kostolansky@gmail.com)
+#### All my repos use DBAD license. Thanks for not being a dick :)
 
-----
+> Version 1.1, December 2016
+licensing 
+> Copyright (C) [YEAR] [Pavol Kostolansky]
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
-  
-   
-![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PavolKostolansky&hide=["stars"]&show_icons=true)
+Everyone is permitted to copy and distribute verbatim or modified
+copies of this license document.
 
--------
+> DON'T BE A DICK PUBLIC LICENSE
+> TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+1. Do whatever you like with the original work, just don't be a dick.
+
+   Being a dick includes - but is not limited to - the following instances:
+
+ 1a. Outright copyright infringement - Don't just copy this and change the name.
+ 1b. Selling the unmodified original with no work done what-so-ever, that's REALLY being a dick.
+ 1c. Modifying the original work to contain hidden harmful content. That would make you a PROPER dick.
+
+2. If you become rich through modifications, related works/services, or supporting the original work,
+share the love. Only a dick would make loads off this work and not buy the original work's
+creator(s) a pint.
+
+3. Code is provided with no warranty. Using somebody else's code and bitching when it goes wrong makes
+you a DONKEY dick. Fix the problem yourself. A non-dick would submit the fix back.
